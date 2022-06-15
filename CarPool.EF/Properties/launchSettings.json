@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CarPool.EF": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\nirk\\source\\repos\\CarPool\\CarPool.EF"
+    }
+  }
+}
